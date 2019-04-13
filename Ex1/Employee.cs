@@ -14,6 +14,8 @@ namespace Ex1
         public string PhoneNumber { get; set; }
         public decimal Salary { get; set; }
 
+       
+        
         //constructors
         public Employee(string name, string address, string phoneNumber)
         {
